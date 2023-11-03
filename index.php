@@ -1,5 +1,6 @@
 <?php
 
-print "Welcome ...!"
+print "Welcome ...!";
+print "Hello User ...!";
 
 ?>
